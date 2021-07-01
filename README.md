@@ -11,8 +11,8 @@ Coming soon&trade;. For now see the development instructions.
 ## Usage
 
 1. Open the `threetwenty` executable and click OK.
-2. Start working. 320 will automatically remind you to take a break, or you can manually trigger 320 from the system tray.
-3. To quit, use the system tray.
+2. Start working. 320 will automatically remind you to take a break, or you can manually trigger 320 from the system tray icon.
+3. To quit, use the system tray icon.
 
 ## Development
 
